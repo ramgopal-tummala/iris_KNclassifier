@@ -1,7 +1,7 @@
 # iris_KNclassifier
 
 As a beginner for Data Science or machine leanring we start with basic Machine learning models.
-There are 2 types if models "Supervised and Unsupervised". This iris data set belongs to Supervised learning 
+There are 2 types  models we start with  "Supervised and Unsupervised". model we use is under supervised  
 
 Supervised learning: In this model user provides the algorithm with input and desierd output 
 Example:
